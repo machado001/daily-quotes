@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <application
-        android:name="com.example.geminidayquotes.MainApplication"
+        android:name="com.machado001.dailyquotes.MainApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -14,7 +14,7 @@
         android:theme="@style/Theme.GeminiDayQuotes"
         tools:targetApi="31">
         <activity
-            android:name="com.example.geminidayquotes.MainActivity"
+            android:name="com.machado001.dailyquotes.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.GeminiDayQuotes">
