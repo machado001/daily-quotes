@@ -1,6 +1,6 @@
 # Daily-Quotes
 
-POC made in order to get started with the concepts learned from the [Android Essentials Course](https://pl-coding.com/android-essentials), from the [Runique repository](https://github.com/philipplackner/Runique).
+POC made in order to get started with the concepts learned from the [Android Essentials Course](https://pl-coding.com/android-essentials).
 
 In progress.
 
