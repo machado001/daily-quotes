@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="results_placeholder">oi</string>
+    <string name="prompt_placeholder">new string</string>
+    <string name="baking_title">baking title</string>
+</resources>
